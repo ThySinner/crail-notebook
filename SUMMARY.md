@@ -10,7 +10,7 @@
     * [RDMA Storage](crail-source-code-structure/storage/rdma-storage.md)
   * [RPC](crail-source-code-structure/rpc.md)
     * [Traditional RPC](crail-source-code-structure/rpc/rpc.md)
-    * DaRPC
+    * [DaRPC](crail-source-code-structure/rpc/darpc.md)
   * [HDFS Adapter](crail-source-code-structure/hdfs.md)
   * [Spark Module](crail-source-code-structure/spark.md)
 * [Configuration](configuration.md)
