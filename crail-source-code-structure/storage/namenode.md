@@ -1,6 +1,6 @@
 # NameNode
 
-When a NameNode start. It will complete the following steps:
+Once a NameNode start. It will complete the following steps:
 
 1. Update the configuration from file _crail-site.conf_.
 2. Get listening IP address and port of the primary NameNode.
@@ -15,6 +15,4 @@ There are two distribution strategies for writing data:
 * Random
 
 When an RpcNameNodeService is created, it will use the configuration item **crail.namenode.blockselection**\(default value is "roundrobin"\) to choose the distribution strategy.
-
-
 
