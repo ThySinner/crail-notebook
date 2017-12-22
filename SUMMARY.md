@@ -12,5 +12,6 @@
   * [HDFS Adapter](crail-source-code-structure/hdfs.md)
   * [Spark Module](crail-source-code-structure/spark.md)
 * [Configuration](configuration.md)
+  * [Crail Configuration](configuration/crail-configuration.md)
 * [Source Code Analysis](source-code-analysis.md)
 
