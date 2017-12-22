@@ -16,7 +16,5 @@ There are two distribution strategies for writing data:
 
 When an RpcNameNodeService is created, it will use the configuration item **crail.namenode.blockselection**\(default value is "roundrobin"\) to choose the distribution strategy.
 
-## Caching Data Blocks on SSDs
-
 
 
