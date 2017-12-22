@@ -5,7 +5,7 @@
   * [Overview](crail-source-code-structure/overview.md)
   * [Client](crail-source-code-structure/client.md)
   * [Storage](crail-source-code-structure/storage.md)
-    * [Namenode](crail-source-code-structure/storage/namenode.md)
+    * [NameNode](crail-source-code-structure/storage/namenode.md)
     * [NVMf Storage](crail-source-code-structure/storage/nvmf-storage.md)
     * [RDMA Storage](crail-source-code-structure/storage/rdma-storage.md)
   * [RPC](crail-source-code-structure/rpc.md)
