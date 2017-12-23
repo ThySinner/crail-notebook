@@ -7,6 +7,7 @@ Once a StorageServer starts, it will complete the following steps:
 3. The StorageTier intializes a StorageServer with the given configuration and arguments.
 4. The StorageServer starts as a thread.
 5. Creates a Namenode RPC client.
-
+6. Builds a ConcurrentLinkedQueue which contains RPC connection to each NameNode.
+7. 
 
 
