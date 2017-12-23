@@ -15,7 +15,7 @@
 * [Configuration](configuration.md)
   * [Crail Configuration](configuration/crail-configuration.md)
   * [NVMf Storage Configuration](configuration/nvmf-configuration.md)
-  * RDMA Configuration
-  * DaRPC Configuration
+  * [RDMA Configuration](configuration/rdma-configuration.md)
+  * [DaRPC Configuration](configuration/darpc-configuration.md)
 * [Source Code Analysis](source-code-analysis.md)
 

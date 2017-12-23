@@ -28,7 +28,7 @@
 | crail.namenode.rpctype | com.ibm.crail.namenode.rpc.darpc.DaRPCNameNode | The currently available value is only "com.ibm.crail.namenode.rpc.darpc.DaRPCNameNode". |
 | crail.namenode.rpcservice | com.ibm.crail.namenode.NameNodeService | Currently available values are "com.ibm.crail.namenode.NameNodeService" or "com.ibm.crail.namenode.LogDispatcher". |
 | crail.namenode.log | _Empty string_ |  |
-| crail.storage.types | com.ibm.crail.storage.rdma.RdmaStorageTier | Currently available values are "com.ibm.crail.storage.rdma.RdmaStorageTier" and "com.ibm.crail.storage.nvmf.NvmfStorageTier" |
+| crail.storage.types | com.ibm.crail.storage.rdma.RdmaStorageTier | Class names of StorageTier implementation separated by commas. Currently available values are "com.ibm.crail.storage.rdma.RdmaStorageTier" and "com.ibm.crail.storage.nvmf.NvmfStorageTier". |
 | crail.storage.classes | 1 |  |
 | crail.storage.rootclass | 0 |  |
 | crail.storage.keepalive | 2 |  |
