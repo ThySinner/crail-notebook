@@ -1,5 +1,7 @@
 # NameNode
 
+## How NameNode Works
+
 Once a NameNode starts, it will complete the following steps:
 
 1. Reads and verifies the configuration from file _crail-site.conf_.

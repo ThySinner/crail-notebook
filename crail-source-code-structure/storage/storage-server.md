@@ -1,5 +1,7 @@
 # StorageServer
 
+## How StorageServer works
+
 Once a StorageServer starts, it will complete the following steps:
 
 1. Reads and verifies the configuration from file _crail-site.conf._
