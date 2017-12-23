@@ -16,5 +16,3 @@ The DaRPC programming API gives full control over network and compute resources 
 
 
 
-
-
