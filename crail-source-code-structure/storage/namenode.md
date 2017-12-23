@@ -1,5 +1,7 @@
 # NameNode
 
+A NameNode is just like HDFS's NameNode, which stores and manages metadata of data blocks.
+
 ## How NameNode Works
 
 Once a NameNode starts, it will complete the following steps:

@@ -8,7 +8,7 @@
   * [HDFS Adapter](crail-source-code-structure/hdfs.md)
   * [Spark Module](crail-source-code-structure/spark.md)
 * [NameNode](crail-source-code-structure/storage/namenode.md)
-* [StorageServer](crail-source-code-structure/storage/storage-server.md)
+* [StorageServer/DataNode](crail-source-code-structure/storage/storage-server.md)
   * [NMVf StorageServer](crail-source-code-structure/storage/nmvf-storage.md)
   * [RDMA StorageServer](crail-source-code-structure/storage/rdma-storage.md)
 * [Client](crail-source-code-structure/client.md)

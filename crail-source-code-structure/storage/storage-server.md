@@ -1,4 +1,6 @@
-# StorageServer
+# StorageServer/DataNode
+
+A StorageServer/DataNode is just like HDFS's DataNode, which store and manage data blocks.
 
 ## How StorageServer works
 
