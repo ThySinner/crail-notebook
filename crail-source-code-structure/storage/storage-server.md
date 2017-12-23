@@ -14,5 +14,12 @@ Once a StorageServer starts, it will complete the following steps:
 8. The StorageServer constantly allocates resource until there is no resource left. The allocated resource is used for setting blocks. 
 9. Finally, as long as the StorageServer is still alive, it will statistics the DataNode information.
 
+## StorageServer types
+
+| Type | Comment |
+| :--- | :--- |
+| NvmfStorageServer | A StorageServer implementation based on Non-Volatile Memory Express over Fabrics standard. |
+| RdmaStorageServer | A StorageServer implementation based on Remote Direct Memory Access. |
+
 
 
