@@ -11,12 +11,11 @@
   * [NMVf StorageServer](crail-source-code-structure/storage/nmvf-storage.md)
   * [RDMA StorageServer](crail-source-code-structure/storage/rdma-storage.md)
 * [DaRPC](crail-source-code-structure/rpc/darpc.md)
+* [DaRPC In the Crail Project](darpc-in-the-crail-project.md)
 * [Client](crail-source-code-structure/client.md)
 * [Configuration](configuration.md)
   * [Crail Configuration](configuration/crail-configuration.md)
   * [NVMf Storage Configuration](configuration/nvmf-configuration.md)
   * [RDMA Configuration](configuration/rdma-configuration.md)
   * [DaRPC Configuration](configuration/darpc-configuration.md)
-* [Usage In Production](use-case.md)
-* [FAQ](source-code-analysis.md)
 

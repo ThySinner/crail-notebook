@@ -1,6 +1,6 @@
 # NameNode
 
-A NameNode is just like HDFS's NameNode, which stores and manages metadata of data blocks.
+A NameNode is just like HDFS's NameNode, which stores and manages metadata of data blocks. There might be more than one or two NameNodes in a Crail cluster.
 
 ## How NameNode Works
 

@@ -12,7 +12,5 @@ DaRPC is an RPC framework and API for Java which uses RDMA to implement a tight 
 
 The DaRPC programming API gives full control over network and compute resources during a remote procedure call. As such, applications decide how many CPU cores they want to use for server-side RPC processing and whether the application should interact with the network interface via interrupts or polling. RPC calls in DaRPC as issued by applications are non-blocking. In contrast to other non-blocking RPC libraries, DaRPC does not engage any background threads and, thus, achieves lower latencies. DaRPC relies on jVerbs, a framework and API for RDMA communication in Java.
 
-## DaRPC In the Crail Project
-
 
 
