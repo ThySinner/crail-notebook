@@ -23,5 +23,9 @@ Once a StorageServer starts, it will complete the following steps:
 | NvmfStorageServer | A StorageServer implementation based on Non-Volatile Memory Express over Fabrics standard. |
 | RdmaStorageServer | A StorageServer implementation based on Remote Direct Memory Access. |
 
+## UML Class Hierarchy Diagram
 
+![](/assets/storage-uml.png)
+
+![](/assets/storage-tier-uml.png)
 
