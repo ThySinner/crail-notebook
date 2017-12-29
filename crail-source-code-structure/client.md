@@ -6,5 +6,5 @@ The Crail Client provides APIs for creating, reading, deleting or renaming files
 
 ![](/assets/metadata-op-uml.png)
 
-![](/assets/core-stream-uml.png)![](/assets/crail-node-uml.png)![](/assets/crail-operation.png)
+![](/assets/core-stream-uml.png)![](/assets/crail-node-uml.png)![](/assets/crail-operation.png)![](/assets/rpc-response-uml.png)
 
