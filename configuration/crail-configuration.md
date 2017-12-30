@@ -31,7 +31,7 @@
 | crail.storage.types | com.ibm.crail.storage.rdma.RdmaStorageTier | Class names of StorageTier implementation separated by commas. Currently available values are "com.ibm.crail.storage.rdma.RdmaStorageTier" and "com.ibm.crail.storage.nvmf.NvmfStorageTier". |
 | crail.storage.classes | 1 |  |
 | crail.storage.rootclass | 0 |  |
-| crail.storage.keepalive | 2 |  |
+| crail.storage.keepalive | 2 | In seconds |
 
 
 
