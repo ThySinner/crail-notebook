@@ -2,6 +2,12 @@
 
 DaPRC is mainly used in the module NameNode.
 
+
+
+## DaRPC Server
+
+## DaRPC Client
+
 ## UML Class Hierarchy Diagram
 
 ![](/assets/darpc-namenode-client-uml.png)
