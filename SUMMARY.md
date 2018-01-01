@@ -13,6 +13,7 @@
 * [DaRPC](crail-source-code-structure/rpc/darpc.md)
 * [DaRPC In the Crail Project](darpc-in-the-crail-project.md)
 * [Client](crail-source-code-structure/client.md)
+* [I/O Streams](io-streams.md)
 * [Configuration](configuration.md)
   * [Crail Configuration](configuration/crail-configuration.md)
   * [NVMf Storage Configuration](configuration/nvmf-configuration.md)
