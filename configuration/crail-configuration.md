@@ -7,7 +7,7 @@
 | crail.tokenexpiration | 10 |  |
 | crail.blocksize | 67108864 |  |
 | crail.cachelimit | 1073741824 |  |
-| crail.cachepath | /home/stu/craildata/cache |  |
+| crail.cachepath | /home/stu/craildata/cache | path, should be huge page mountpoint |
 | crail.user | stu |  |
 | crail.shadowreplication | 1 |  |
 | crail.debug | false |  |
