@@ -19,6 +19,7 @@
   * [NVMf Storage Configuration](configuration/nvmf-configuration.md)
   * [RDMA Configuration](configuration/rdma-configuration.md)
   * [DaRPC Configuration](configuration/darpc-configuration.md)
+* [Deployment](deployment.md)
 * [Usage In Production](usage-in-production.md)
 * [FAQ](faq.md)
 
